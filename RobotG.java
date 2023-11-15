@@ -2,7 +2,7 @@
  * La classe abstraite RobotG représente un robot dans un environnement 2D.
  *
  * @author Group11
- * @version 31/10/23
+ * @version coucou
  */
 abstract class RobotG {
     // Position du robot
